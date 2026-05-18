@@ -80,7 +80,6 @@ A comprehensive project management system that streamlines workflow optimization
         "optimization_suggestions": ["Suggestion 1"]
       }
     }
-    ```
 
 ### Resume Processing
 - **POST /upload-resume**
